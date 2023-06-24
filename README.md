@@ -1,2 +1,2 @@
-# C-codes
+# C-Codes
 Various codes in C  
